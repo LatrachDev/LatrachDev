@@ -1,3 +1,5 @@
+![My Profile Picture]([https://github.com/yourusername.png](https://github.com/LatrachDev/LatrachDev/blob/main/LinkedIn%20banner.jpg))
+
 - 👋 Hi, I’m Mohammed Latrach
 - 👀 I’m interested in Graphic design
 - 🌱 I’m currently learning Full stack development at YouCode
