@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LatrachDev
+- 👋 Hi, I’m Mohammed Latrach
 - 👀 I’m interested in Graphic design
 - 🌱 I’m currently learning Full stack development at YouCode
 - 📫 How to reach me : www.linkedin.com/in/latrachdev1
