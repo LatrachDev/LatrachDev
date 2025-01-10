@@ -1,4 +1,4 @@
-![My Profile Picture]([https://github.com/yourusername.png](https://github.com/LatrachDev/LatrachDev/blob/main/LinkedIn%20banner.jpg))
+![Mohammed Latrach Banner](LinkedIn_banner.jpg)
 
 - 👋 Hi, I’m Mohammed Latrach
 - 👀 I’m interested in Graphic design
