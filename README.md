@@ -47,8 +47,6 @@ I'm a passionate developer and designer who bridges the gap between beautiful de
 
 ## 📊 GitHub Stats
 
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=LatrachDev&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LatrachDev&layout=compact&theme=radical)
 
 ## 🌟 What I'm Working On
