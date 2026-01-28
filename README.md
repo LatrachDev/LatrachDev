@@ -1,6 +1,6 @@
 ![Mohammed Latrach Banner](LinkedIn_banner.jpg)
 
-# 👋 Hey there! I'm Mohammed Latrach
+# Hey there! I'm MOHAMMED LATRACH
 
 ### Full Stack MERN Developer | UX/UI Designer
 > *Where creativity meets code*
